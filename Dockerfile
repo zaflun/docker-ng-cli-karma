@@ -1,4 +1,4 @@
-FROM zaflun/ng-cli:11.2.6
+FROM zaflun/ng-cli:11.2.7
 
 MAINTAINER zaflun UG "developer@zaflun.com"
 ARG CHROME_VERSION=<unset>
